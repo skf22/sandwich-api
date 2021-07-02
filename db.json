@@ -71,6 +71,30 @@
           "country": "United Kingdom"
         }
       ]
+    },
+    {
+      "id": 4,
+      "name": "Coronation Chicken",
+      "restaurant": "Paul Rothe & Son",
+      "web": "http://paulrotheandsondelicatessen.co.uk/",
+      "description": "A combination of cold cooked chicken meat, herbs and spices, and a creamy mayonnaise-based sauce",
+      "ingredients": [
+        "chicken",
+        "mayonnaise",
+        "spices",
+        "curry powder",
+        "bread"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "35",
+          "line1": "Marylebone Lane",
+          "line2": "London",
+          "postcode": "W1U 2NN",
+          "country": "United Kingdom"
+        }
+      ]
     }
   ]
 }
