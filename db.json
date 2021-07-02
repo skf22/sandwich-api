@@ -53,6 +53,24 @@
           "country": "United Kingdom"
         }
       ]
+    },
+    {
+      "id": 3,
+      "name": "Falafel and Halloumi Wrap",
+      "restaurant": "Mr Falafel",
+      "web": "https://www.mrfalafel.co.uk",
+      "description": "Tasty strips of halloumi cheese and fresh mint leaves including all the classic fillings and salads",
+      "ingredients": ["halloumi", "falafel", "salad", "mint leaves", "bread"],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "Units T4/T5",
+          "line1": "New Shepherds Bush Market, Uxbridge Road",
+          "line2": "London",
+          "postcode": "W12 8LH",
+          "country": "United Kingdom"
+        }
+      ]
     }
   ]
 }
